@@ -82,7 +82,6 @@ auth:
         tenantId: eb25818e-5bd5-49bf-99de-53e3e7b42630
         domainHint: eb25818e-5bd5-49bf-99de-53e3e7b42630
         additionalScopes: ['user.read']
-          - Mail.Send
 
 scaffolder:
   # see https://backstage.io/docs/features/software-templates/configuration for software template options
